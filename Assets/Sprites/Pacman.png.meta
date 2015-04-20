@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: ff518e29c965da747aee047382f1b424
+guid: 4a6c4e8c8fb670844b94e46005f4d42b
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Pacman_0
-    21300002: Pacman_1
-    21300004: Pacman_2
-    21300006: Pacman_3
-    21300008: Pacman_4
-    21300010: Pacman_5
-    21300012: Pacman_6
-    21300014: Pacman_7
-    21300016: Pacman_8
-    21300018: Pacman_9
-    21300020: Pacman_10
-    21300022: Pacman_11
+    21300000: pacman_0
+    21300002: pacman_1
+    21300004: pacman_2
+    21300006: pacman_3
+    21300008: pacman_4
+    21300010: pacman_5
+    21300012: pacman_6
+    21300014: pacman_7
+    21300016: pacman_8
+    21300018: pacman_9
+    21300020: pacman_10
+    21300022: pacman_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -36,7 +36,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -55,7 +55,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Pacman_0
+    - name: pacman_0
       rect:
         serializedVersion: 2
         x: 0
@@ -65,7 +65,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_1
+    - name: pacman_1
       rect:
         serializedVersion: 2
         x: 16
@@ -75,7 +75,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_2
+    - name: pacman_2
       rect:
         serializedVersion: 2
         x: 32
@@ -85,7 +85,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_3
+    - name: pacman_3
       rect:
         serializedVersion: 2
         x: 0
@@ -95,7 +95,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_4
+    - name: pacman_4
       rect:
         serializedVersion: 2
         x: 16
@@ -105,7 +105,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_5
+    - name: pacman_5
       rect:
         serializedVersion: 2
         x: 32
@@ -115,7 +115,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_6
+    - name: pacman_6
       rect:
         serializedVersion: 2
         x: 0
@@ -125,7 +125,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_7
+    - name: pacman_7
       rect:
         serializedVersion: 2
         x: 16
@@ -135,7 +135,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_8
+    - name: pacman_8
       rect:
         serializedVersion: 2
         x: 32
@@ -145,7 +145,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_9
+    - name: pacman_9
       rect:
         serializedVersion: 2
         x: 0
@@ -155,7 +155,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_10
+    - name: pacman_10
       rect:
         serializedVersion: 2
         x: 16
@@ -165,7 +165,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pacman_11
+    - name: pacman_11
       rect:
         serializedVersion: 2
         x: 32
